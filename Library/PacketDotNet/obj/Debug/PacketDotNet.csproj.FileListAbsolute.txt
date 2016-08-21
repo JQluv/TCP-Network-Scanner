@@ -1,0 +1,6 @@
+C:\Users\gloveless\Documents\Aptana Studio 3 Workspace\ITAM_JQluv\server_software\Library\PacketDotNet\bin\Debug\PacketDotNet.dll
+C:\Users\gloveless\Documents\Aptana Studio 3 Workspace\ITAM_JQluv\server_software\Library\PacketDotNet\bin\Debug\PacketDotNet.pdb
+C:\Users\gloveless\Documents\Aptana Studio 3 Workspace\ITAM_JQluv\server_software\Library\PacketDotNet\bin\Debug\log4net.dll
+C:\Users\gloveless\Documents\Aptana Studio 3 Workspace\ITAM_JQluv\server_software\Library\PacketDotNet\obj\Debug\PacketDotNet.csprojResolveAssemblyReference.cache
+C:\Users\gloveless\Documents\Aptana Studio 3 Workspace\ITAM_JQluv\server_software\Library\PacketDotNet\obj\Debug\PacketDotNet.dll
+C:\Users\gloveless\Documents\Aptana Studio 3 Workspace\ITAM_JQluv\server_software\Library\PacketDotNet\obj\Debug\PacketDotNet.pdb
